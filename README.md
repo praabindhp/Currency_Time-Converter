@@ -1,6 +1,8 @@
 # Currency_Time-Converter
 Java Program For Currency Time Converter
 
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+
 This is a JAVA Program For Converting Currencies & Time
 
 The Conversions Done :
